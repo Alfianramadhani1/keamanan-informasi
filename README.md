@@ -88,7 +88,7 @@ npm install && npm run dev
 php artisan migrate
 ```
 ### File Tambahan :
--'jawaban_essay.pdf : berisi jawaban pertanyaan essay
+-'jawaban_essay.pdf' : berisi jawaban pertanyaan essay
 
 
 ## 📄 Lisensi
