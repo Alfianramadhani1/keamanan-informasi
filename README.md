@@ -1,6 +1,6 @@
-**Disusun Oleh:** Alfian Ramadhani 20230801217
+# **Disusun Oleh:** Alfian Ramadhani 20230801217
 
-# 📘 Fakultas App
+##📘 Fakultas App
 
 Aplikasi manajemen data fakultas berbasis Laravel 12 dan Filament v3.
 
