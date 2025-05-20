@@ -29,8 +29,8 @@ Aplikasi manajemen data fakultas berbasis Laravel 12 dan Filament v3.
 
 ### 1. Clone Repositori
 ```bash
-git clone https://github.com/username/fakultas-app.git
-cd fakultas-app
+git clone https://github.com/Alfianramadhani1/keamanan-informasi
+cd keamanan-informasi
 ```
 
 ### 2. Install Dependency
